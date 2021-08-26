@@ -53,3 +53,11 @@ a:hover .btn{
     padding: 25px 0;
 }
 
+@media screen and (max-width:420px) {
+    main{
+        margin: 25px 5px;
+        padding: 25px 0;
+    }
+    
+}
+
